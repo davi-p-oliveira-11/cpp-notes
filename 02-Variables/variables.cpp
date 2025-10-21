@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main () {
+int main()
+{
 
    int x = 5;
    int y = 6;
@@ -35,6 +36,5 @@ int main () {
    std::cout << "Hello " << name << '\n';
    std::cout << "You are " << age << " years old";
 
-
-   return 0;   
+   return 0;
 }

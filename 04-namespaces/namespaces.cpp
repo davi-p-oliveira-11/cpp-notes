@@ -1,14 +1,17 @@
 #include <iostream>
 
-namespace first {
+namespace first
+{
     int x = 1;
 }
 
-namespace second {
+namespace second
+{
     int x = 2;
 }
 
-int main() {
+int main()
+{
 
     // Namespaces = provides a solution for preventing name conflicts
     //              in large projects. Each entity needs a unique name.
