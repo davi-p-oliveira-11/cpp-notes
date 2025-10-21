@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <text 
+    x="95%" 
+    y="95%" 
+    font-family="Roboto, sans-serif" 
+    font-size="8%" 
+    fill="white" 
+    fill-opacity="0.4" 
+    text-anchor="end" 
+    dominant-baseline="ideographic"
+  >
+    David Waldstein IV
+  </text>
+</svg>
+
+<!-- fill="black" -->
